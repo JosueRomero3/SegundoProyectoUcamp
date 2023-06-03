@@ -28,6 +28,10 @@ body {
     padding: 10px 40px;
 }
 
+.contenedor-2 h1 {
+    font-family: 'Anton', sans-serif;
+}
+
 .contenedor-2 p {
     align-self: flex-end;
 }
