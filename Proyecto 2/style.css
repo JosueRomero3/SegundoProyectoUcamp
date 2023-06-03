@@ -13,6 +13,7 @@ body {
 .contenedor {
     background-color: rgb(38, 135, 233);
     width: 100%;
+    min-width: 400px;
     display: flex;
     justify-content: center;
     margin-bottom: 30px;
